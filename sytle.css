@@ -1,0 +1,27 @@
+body{
+
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHSAWUPuZX7IbqcWHUBRKxcMK7bLicDob55g&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+}
+
+
+
+    #icon img{
+    
+      position: absolute;
+      border-radius: 900px;
+      bottom: 0px;
+      left: 45%;
+      
+      opacity: 0.5;
+    }
+
+    .icon img:hover{
+    
+      width: 90px;
+      height: 80px;
+
+    
+}
